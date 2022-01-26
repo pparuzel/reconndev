@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello Traveller! 👋 
+
+- 📚 Most of the code here is for self-educational purpose and is most likely outdated.
+- 🚫 None of the repositories display my professional experience nor is it a portfolio/CV of mine.
+- 🧪 I do like to experiment with code usually so it may be a mess 😬
 
 <!--
 **reconndev/reconndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
